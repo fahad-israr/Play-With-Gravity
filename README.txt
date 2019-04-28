@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/akm2/pen/rHIsa.
+One  of the projects that I did as a beginner.
 
- http://jsdo.it/akm2/5SPA
+Learnt from  codepen
