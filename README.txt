@@ -4,4 +4,4 @@ Learnt from  codepen
 
 Experience the app here:
 
-https://fahad00cms.github.io/Play-With-Gravity/
+https://fahad-israr.github.io/Play-With-Gravity/
